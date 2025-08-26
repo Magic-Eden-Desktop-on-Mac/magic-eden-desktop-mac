@@ -1,4 +1,4 @@
-# Magic Eden — Download For Mac OS
+# Magic Eden — Desktop NFT Marketplace For Mac OS
 ![logo](https://avatars.githubusercontent.com/u/89287574?s=280&v=4)
 
 Magic Eden for Mac brings the full power of the leading NFT marketplace directly to your desktop 💎.  
