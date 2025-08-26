@@ -85,4 +85,4 @@ With **desktop performance and macOS integration**, this version of Magic Eden m
 
 ## 🔍 Tags
 
-magic eden, magic eden desktop, magiceden, magiceden marketplace, magiceiden, magiceiden desktop, magiceiden nft, magiceiden marketplace, magic eden marketplace, magic eden nft, magic eden crypto, magic eden mac, download magic eden for mac, nft marketplace mac app, install magic eden desktop, magic eden nft desktop, mac nft marketplace download, magiceden desktop, magiceden download, magiceden desktop 
+magic eden, magic eden desktop, magiceden, magiceden marketplace, magiceiden, magiceiden desktop, magiceden nft, magiceiden nft, magiceiden marketplace, magic eden marketplace, magic eden nft, magic eden crypto, magic eden mac, download magic eden for mac, nft marketplace mac app, install magic eden desktop, magic eden nft desktop, mac nft marketplace download, magiceden desktop, magiceden download, magiceden desktop 
